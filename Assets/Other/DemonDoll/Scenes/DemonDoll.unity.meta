@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f00e4ffbf694844da96712386b7e8cf5
+guid: 9fc0d4010bbf28b4594072e72b8655ab
 DefaultImporter:
   externalObjects: {}
   userData: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 301030
   packageName: Demon Doll G1
   packageVersion: 1.0
-  assetPath: Assets/DemonDoll/Scenes/DemonDoll.unity
+  assetPath: Assets/Other/DemonDoll/Scenes/DemonDoll.unity
   uploadId: 704262

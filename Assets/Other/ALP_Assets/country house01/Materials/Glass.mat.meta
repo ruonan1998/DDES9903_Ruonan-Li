@@ -11,7 +11,14 @@ NativeFormatImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 125731
-  packageName: "\u0421ountry house"
+  packageName: "\0\U000D08A6\0\u050E\0\u0688EJu"
   packageVersion: 1.1
   assetPath: Assets/ALP_Assets/country house01/Materials/Glass.mat
+  uploadId: 607083
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125731
+  packageName: "\u0421ountry house"
+  packageVersion: 1.1
+  assetPath: Assets/Other/ALP_Assets/country house01/Materials/Glass.mat
   uploadId: 607083

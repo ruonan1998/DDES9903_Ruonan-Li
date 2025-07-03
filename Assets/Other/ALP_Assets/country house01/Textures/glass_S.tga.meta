@@ -88,7 +88,14 @@ TextureImporter:
 AssetOrigin:
   serializedVersion: 1
   productId: 125731
-  packageName: "\u0421ountry house"
+  packageName: "\0\u0357\00\0jL\0?:\uB6BC"
   packageVersion: 1.1
   assetPath: Assets/ALP_Assets/country house01/Textures/glass_S.tga
+  uploadId: 607083
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125731
+  packageName: "\u0421ountry house"
+  packageVersion: 1.1
+  assetPath: Assets/Other/ALP_Assets/country house01/Textures/glass_S.tga
   uploadId: 607083

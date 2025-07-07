@@ -22,7 +22,7 @@ public class ClickToTogglePopup : MonoBehaviour
             }
 
             // 开始自动关闭倒计时
-            autoCloseCoroutine = StartCoroutine(AutoCloseAfterSeconds(2f));
+            autoCloseCoroutine = StartCoroutine(AutoCloseAfterSeconds(3f));
         }
     }
 

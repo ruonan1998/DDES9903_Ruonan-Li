@@ -36,7 +36,6 @@ public class EndingManager : MonoBehaviour
 
         yield return new WaitForSeconds(1.5f);         // 延迟再贴脸杀
         screamImage.gameObject.SetActive(true);
-        yield return FadeCanvas(screamImage, 0.6f);    // 大叫图淡入
 
         houseGroup.SetActive(false);                   // 房间隐藏
 
